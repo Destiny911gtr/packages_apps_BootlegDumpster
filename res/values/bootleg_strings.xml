@@ -692,6 +692,8 @@
     <string name="fling_pulse_color_summary">Used also as fallback for automatic color</string>
     <string name="eos_fling_lavalamp_title">Turn on Lava Lamp</string>
     <string name="eos_fling_lavalamp_summary">Pulse animates a smooth lava lamp style color blend</string>
+    <string name="pulse_accent_color_title">Use accent color for pulse</string>
+    <string name="pulse_accent_color_summary">Enabling this will make pulse use your current accent color. It will disable Lava Lamp</string>
     <string name="pulse_advanced_category">Advanced</string>
     <string name="pulse_legacy_mode_advanced_category">Fading blocks mode settings</string>
     <string name="pulse_custom_fudge_factor">Sanity level</string>

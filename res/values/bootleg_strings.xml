@@ -716,4 +716,8 @@
     <string name="pulse_blacklist_add_apps_title">Add app</string>
     <string name="pulse_blacklist_add_apps_summary">Tap here to add, tap on added app to remove it</string>
 
+    <!-- QS footer warnings -->
+    <string name="qs_footer_warnings_title">QS footer warnings</string>
+    <string name="qs_footer_warnings_summary">Display a warning at bottom of QS panel when network is monitored by external apps or vpn</string>
+
 </resources>
